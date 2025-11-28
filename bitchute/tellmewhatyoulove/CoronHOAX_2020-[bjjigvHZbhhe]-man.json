@@ -1,0 +1,105 @@
+{
+  "original_video": {
+    "filename": "CoronHOAX_2020-[bjjigvHZbhhe].mp4",
+    "duration": 2512.1096,
+    "size": 133537330,
+    "width": 854,
+    "height": 480,
+    "framerate": "30000/1001"
+  },
+  "chunks": [
+    {
+      "filename": "CoronHOAX_2020-[bjjigvHZbhhe]-000.mp4",
+      "start_time": 0,
+      "duration": 241.428833,
+      "size": 9943148,
+      "chunk_number": 0
+    },
+    {
+      "filename": "CoronHOAX_2020-[bjjigvHZbhhe]-001.mp4",
+      "start_time": 241.428833,
+      "duration": 242.075167,
+      "size": 12262975,
+      "chunk_number": 1
+    },
+    {
+      "filename": "CoronHOAX_2020-[bjjigvHZbhhe]-002.mp4",
+      "start_time": 483.504,
+      "duration": 238.171267,
+      "size": 12981295,
+      "chunk_number": 2
+    },
+    {
+      "filename": "CoronHOAX_2020-[bjjigvHZbhhe]-003.mp4",
+      "start_time": 721.6752670000001,
+      "duration": 240.206633,
+      "size": 11029651,
+      "chunk_number": 3
+    },
+    {
+      "filename": "CoronHOAX_2020-[bjjigvHZbhhe]-004.mp4",
+      "start_time": 961.8819000000001,
+      "duration": 238.7385,
+      "size": 24102815,
+      "chunk_number": 4
+    },
+    {
+      "filename": "CoronHOAX_2020-[bjjigvHZbhhe]-005.mp4",
+      "start_time": 1200.6204,
+      "duration": 241.474567,
+      "size": 10958896,
+      "chunk_number": 5
+    },
+    {
+      "filename": "CoronHOAX_2020-[bjjigvHZbhhe]-006.mp4",
+      "start_time": 1442.094967,
+      "duration": 239.472567,
+      "size": 9836540,
+      "chunk_number": 6
+    },
+    {
+      "filename": "CoronHOAX_2020-[bjjigvHZbhhe]-007.mp4",
+      "start_time": 1681.567534,
+      "duration": 239.7395,
+      "size": 11959858,
+      "chunk_number": 7
+    },
+    {
+      "filename": "CoronHOAX_2020-[bjjigvHZbhhe]-008.mp4",
+      "start_time": 1921.307034,
+      "duration": 241.674767,
+      "size": 12384636,
+      "chunk_number": 8
+    },
+    {
+      "filename": "CoronHOAX_2020-[bjjigvHZbhhe]-009.mp4",
+      "start_time": 2162.981801,
+      "duration": 239.706133,
+      "size": 13053564,
+      "chunk_number": 9
+    },
+    {
+      "filename": "CoronHOAX_2020-[bjjigvHZbhhe]-010.mp4",
+      "start_time": 2402.687934,
+      "duration": 109.442667,
+      "size": 5038155,
+      "chunk_number": 10
+    }
+  ],
+  "total_chunks": 11,
+  "slice_duration": 240,
+  "video_metadata": {
+    "title": "CoronHOAX 2020",
+    "description": "#tellmewhatyoulove #CoronHOAX #MaskedWorld\n .. For fun only..Or Not ..\n_I think the psychological disasters caused by the mask will be terrible and much worse than the coming financial crisis.\n_The \"new normal\" health science is insane and absurd ? Welcome in the NWO!\n_Their NWO needs chaos, don't fall into their plan.\nTo keep control they need chaos.\n_Don't wait for help or information from the media and journalists, they are as useless and dangerous as our politicians.\n_Be strong!\nEnjoy Brothers and Sisters ..& Keep your Good Way",
+    "thumbnail": "https://static-3.bitchute.com/live/cover_images/DvF0vPznjW8i/bjjigvHZbhhe_640x360.jpg",
+    "channel": "tellmewhatyoulove",
+    "channel_id": "DvF0vPznjW8i",
+    "channel_url": "https://www.bitchute.com/channel/tellmewhatyoulove/",
+    "uploader_id": "P71wwwIptxRM",
+    "uploader_url": "https://www.bitchute.com/profile/P71wwwIptxRM/",
+    "timestamp": 1610409529,
+    "duration": 2512.0,
+    "uploader": "tellmewhatyoulove",
+    "id": "bjjigvHZbhhe"
+  }
+}
