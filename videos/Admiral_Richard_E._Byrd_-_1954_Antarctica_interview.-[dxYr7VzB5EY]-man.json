@@ -1,0 +1,56 @@
+{
+  "original_video": {
+    "filename": "Admiral_Richard_E._Byrd_-_1954_Antarctica_interview.-[dxYr7VzB5EY].mp4",
+    "duration": 728.409977,
+    "size": 108188693,
+    "width": 1920,
+    "height": 1080,
+    "framerate": "10915000/364197"
+  },
+  "chunks": [
+    {
+      "filename": "Admiral_Richard_E._Byrd_-_1954_Antarctica_interview.-[dxYr7VzB5EY]-000.mp4",
+      "start_time": 0,
+      "duration": 244.366803,
+      "size": 34756134,
+      "chunk_number": 0
+    },
+    {
+      "filename": "Admiral_Richard_E._Byrd_-_1954_Antarctica_interview.-[dxYr7VzB5EY]-001.mp4",
+      "start_time": 244.366803,
+      "duration": 238.444489,
+      "size": 34573606,
+      "chunk_number": 1
+    },
+    {
+      "filename": "Admiral_Richard_E._Byrd_-_1954_Antarctica_interview.-[dxYr7VzB5EY]-002.mp4",
+      "start_time": 482.811292,
+      "duration": 239.590499,
+      "size": 38622254,
+      "chunk_number": 2
+    },
+    {
+      "filename": "Admiral_Richard_E._Byrd_-_1954_Antarctica_interview.-[dxYr7VzB5EY]-003.mp4",
+      "start_time": 722.401791,
+      "duration": 6.054195,
+      "size": 240964,
+      "chunk_number": 3
+    }
+  ],
+  "total_chunks": 4,
+  "slice_duration": 240,
+  "video_metadata": {
+    "title": "Admiral Richard E. Byrd: 1954 Antarctica interview.",
+    "description": "Admiral Byrd makes two notable statements:\n\n- \"We've found enough coal, within a 180 miles of the South Pole, enough to supply the whole world for quite awhile. There's evidence of many other minerals, we're pretty sure there's oil\u2026there's evidence of probably uranium there. It's the most peaceful place in the world, but I don't think it will be for long.\"\n\n- \"Strangely enough, there is left in the world today, an area as big as the United States, that's never been seen by a human being. And that's beyond the pole, on the other side of the south pole from Little America.\"\n\nBlog article: https://www.stolenhistory.org/articles/an-area-as-big-as-the-united-states-thats-never-been-seen-by-a-human-being.92/\n\nRichard Evelyn Byrd Jr. (1888 \u2013 1957) was an American naval officer and explorer. He was a recipient of the Medal of Honor, the highest honor for valor given by the United States, and was a pioneering American aviator, polar explorer, and organizer of polar logistics. Aircraft flights in which he served as a navigator and expedition leader crossed the Atlantic Ocean, a segment of the Arctic Ocean, and a segment of the Antarctic Plateau. Byrd claimed that his expeditions had been the first to reach both the North Pole and the South Pole by air. His claim to have reached the North Pole is disputed. He is also known for discovering Mount Sidley, the largest dormant volcano in Antarctica.",
+    "thumbnail": "https://i.ytimg.com/vi_webp/dxYr7VzB5EY/maxresdefault.webp",
+    "channel": "The Voice of Stolen History",
+    "channel_id": "UCRWyo8OEcuXlZOqVmKO-ewg",
+    "channel_url": "https://www.youtube.com/channel/UCRWyo8OEcuXlZOqVmKO-ewg",
+    "uploader_id": "@TheVoiceofStolenHistory",
+    "uploader_url": "https://www.youtube.com/@TheVoiceofStolenHistory",
+    "timestamp": 1655561129,
+    "duration": 728,
+    "uploader": "The Voice of Stolen History",
+    "id": "dxYr7VzB5EY"
+  }
+}
