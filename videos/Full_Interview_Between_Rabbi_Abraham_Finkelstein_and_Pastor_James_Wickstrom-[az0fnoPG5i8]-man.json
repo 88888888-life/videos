@@ -1,0 +1,31 @@
+{
+  "original_video": {
+    "filename": "Full_Interview_Between_Rabbi_Abraham_Finkelstein_and_Pastor_James_Wickstrom-[az0fnoPG5i8].mp4",
+    "size": 71972239,
+    "is_sliced": false
+  },
+  "chunks": [
+    {
+      "filename": "Full_Interview_Between_Rabbi_Abraham_Finkelstein_and_Pastor_James_Wickstrom-[az0fnoPG5i8].mp4",
+      "start_time": 0,
+      "size": 71972239,
+      "chunk_number": 0
+    }
+  ],
+  "total_chunks": 1,
+  "slice_duration": null,
+  "video_metadata": {
+    "title": "Full Interview Between Rabbi Abraham Finkelstein and Pastor James Wickstrom",
+    "description": "",
+    "thumbnail": "https://i.ytimg.com/vi/az0fnoPG5i8/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgSihCMA8=&rs=AOn4CLDQa4ashhQZ2kK1tjDMF71BZYZjwQ",
+    "channel": "TheWhistleHasBeenBlown",
+    "channel_id": "UCmmLzG8UypNyNuv9TfZ0NlQ",
+    "channel_url": "https://www.youtube.com/channel/UCmmLzG8UypNyNuv9TfZ0NlQ",
+    "uploader_id": "@thewhistlehasbeenblown",
+    "uploader_url": "https://www.youtube.com/@thewhistlehasbeenblown",
+    "timestamp": 1718384802,
+    "duration": 3383,
+    "uploader": "TheWhistleHasBeenBlown",
+    "id": "az0fnoPG5i8"
+  }
+}
