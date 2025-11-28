@@ -1,0 +1,105 @@
+{
+  "original_video": {
+    "filename": "The_Jesuits_and_The_Flat_Earth_Part_1-[M1dQI2WHyFo].mp4",
+    "duration": 2489.063039,
+    "size": 243117694,
+    "width": 1440,
+    "height": 1080,
+    "framerate": "30000/1001"
+  },
+  "chunks": [
+    {
+      "filename": "The_Jesuits_and_The_Flat_Earth_Part_1-[M1dQI2WHyFo]-000.mp4",
+      "start_time": 0,
+      "duration": 240.240007,
+      "size": 12803937,
+      "chunk_number": 0
+    },
+    {
+      "filename": "The_Jesuits_and_The_Flat_Earth_Part_1-[M1dQI2WHyFo]-001.mp4",
+      "start_time": 240.240007,
+      "duration": 240.24,
+      "size": 10811501,
+      "chunk_number": 1
+    },
+    {
+      "filename": "The_Jesuits_and_The_Flat_Earth_Part_1-[M1dQI2WHyFo]-002.mp4",
+      "start_time": 480.480007,
+      "duration": 240.24,
+      "size": 16283107,
+      "chunk_number": 2
+    },
+    {
+      "filename": "The_Jesuits_and_The_Flat_Earth_Part_1-[M1dQI2WHyFo]-003.mp4",
+      "start_time": 720.720007,
+      "duration": 240.24,
+      "size": 15740775,
+      "chunk_number": 3
+    },
+    {
+      "filename": "The_Jesuits_and_The_Flat_Earth_Part_1-[M1dQI2WHyFo]-004.mp4",
+      "start_time": 960.960007,
+      "duration": 240.24,
+      "size": 31058602,
+      "chunk_number": 4
+    },
+    {
+      "filename": "The_Jesuits_and_The_Flat_Earth_Part_1-[M1dQI2WHyFo]-005.mp4",
+      "start_time": 1201.200007,
+      "duration": 240.24,
+      "size": 27515223,
+      "chunk_number": 5
+    },
+    {
+      "filename": "The_Jesuits_and_The_Flat_Earth_Part_1-[M1dQI2WHyFo]-006.mp4",
+      "start_time": 1441.440007,
+      "duration": 240.24,
+      "size": 31052477,
+      "chunk_number": 6
+    },
+    {
+      "filename": "The_Jesuits_and_The_Flat_Earth_Part_1-[M1dQI2WHyFo]-007.mp4",
+      "start_time": 1681.680007,
+      "duration": 240.24,
+      "size": 18953641,
+      "chunk_number": 7
+    },
+    {
+      "filename": "The_Jesuits_and_The_Flat_Earth_Part_1-[M1dQI2WHyFo]-008.mp4",
+      "start_time": 1921.920007,
+      "duration": 240.24,
+      "size": 34007246,
+      "chunk_number": 8
+    },
+    {
+      "filename": "The_Jesuits_and_The_Flat_Earth_Part_1-[M1dQI2WHyFo]-009.mp4",
+      "start_time": 2162.160007,
+      "duration": 240.24,
+      "size": 36891465,
+      "chunk_number": 9
+    },
+    {
+      "filename": "The_Jesuits_and_The_Flat_Earth_Part_1-[M1dQI2WHyFo]-010.mp4",
+      "start_time": 2402.400007,
+      "duration": 86.662993,
+      "size": 8014036,
+      "chunk_number": 10
+    }
+  ],
+  "total_chunks": 11,
+  "slice_duration": 240,
+  "video_metadata": {
+    "title": "The Jesuits and The Flat Earth Part 1",
+    "description": "For over 500 years the Jesuits have had a monopoly on astronomy and science. Wouldn't you want to know if you'd been lied to your entire life about something as simple as the shape of the earth? Follow me as I read from an information packed article exposing the 500 year old globe earth lie.\n Article: https://aplanetruth.info/2015/11/10/the-jesuits-owners-of-the-500-yr-old-flat-earth-con-piracy/comment-page-1/\n\nGlobalist Books Playlist: https://www.youtube.com/playlist?list=PLfdoRZWsozxzqzcV2r4YjNO9Ta-_vvQyj&disable_polymer=true\n\nConspiracy Playlist: https://www.youtube.com/playlist?list=PLfdoRZWsozxxYzrGjPZXrnw74gDdTryaQ\n\nLegal Slavery:\nhttps://www.youtube.com/playlist?list=PLfdoRZWsozxxEgiz04MJUvaDCijA-MNqG\n\nEmail:  skyshroudclaim@gmail.com\n\nPaypal: Paypal.me/eyeonethechurchmiliti\n\nPatreon: Patreon.com/eyeonthechurchmilitia",
+    "thumbnail": "https://i.ytimg.com/vi_webp/M1dQI2WHyFo/maxresdefault.webp",
+    "channel": "Lindeman",
+    "channel_id": "UC8kl5eJ6oLsZO8h3_diRgNw",
+    "channel_url": "https://www.youtube.com/channel/UC8kl5eJ6oLsZO8h3_diRgNw",
+    "uploader_id": "@Lindemanchannel",
+    "uploader_url": "https://www.youtube.com/@Lindemanchannel",
+    "timestamp": 1487404931,
+    "duration": 2489,
+    "uploader": "Lindeman",
+    "id": "M1dQI2WHyFo"
+  }
+}
