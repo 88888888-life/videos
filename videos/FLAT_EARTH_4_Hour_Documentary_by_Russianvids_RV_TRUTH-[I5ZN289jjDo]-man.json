@@ -1,0 +1,448 @@
+{
+  "original_video": {
+    "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo].mp4",
+    "duration": 14276.649796,
+    "size": 427847255,
+    "width": 640,
+    "height": 360,
+    "framerate": "427871000/14276629"
+  },
+  "chunks": [
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-000.mp4",
+      "start_time": 0,
+      "duration": 240.256871,
+      "size": 8659883,
+      "chunk_number": 0
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-001.mp4",
+      "start_time": 240.256871,
+      "duration": 240.24966,
+      "size": 6652372,
+      "chunk_number": 1
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-002.mp4",
+      "start_time": 480.506531,
+      "duration": 240.243651,
+      "size": 8568938,
+      "chunk_number": 2
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-003.mp4",
+      "start_time": 720.750182,
+      "duration": 239.750023,
+      "size": 7422816,
+      "chunk_number": 3
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-004.mp4",
+      "start_time": 960.500205,
+      "duration": 240.75449,
+      "size": 6412838,
+      "chunk_number": 4
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-005.mp4",
+      "start_time": 1201.254695,
+      "duration": 240.247642,
+      "size": 6263693,
+      "chunk_number": 5
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-006.mp4",
+      "start_time": 1441.5023370000001,
+      "duration": 240.241656,
+      "size": 6279136,
+      "chunk_number": 6
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-007.mp4",
+      "start_time": 1681.743993,
+      "duration": 240.257869,
+      "size": 6871574,
+      "chunk_number": 7
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-008.mp4",
+      "start_time": 1922.001862,
+      "duration": 240.251656,
+      "size": 6969519,
+      "chunk_number": 8
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-009.mp4",
+      "start_time": 2162.253518,
+      "duration": 240.245646,
+      "size": 5636582,
+      "chunk_number": 9
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-010.mp4",
+      "start_time": 2402.499164,
+      "duration": 240.26288,
+      "size": 8487593,
+      "chunk_number": 10
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-011.mp4",
+      "start_time": 2642.762044,
+      "duration": 240.256644,
+      "size": 6995221,
+      "chunk_number": 11
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-012.mp4",
+      "start_time": 2883.018688,
+      "duration": 240.24966,
+      "size": 6350299,
+      "chunk_number": 12
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-013.mp4",
+      "start_time": 3123.268348,
+      "duration": 240.243651,
+      "size": 6279583,
+      "chunk_number": 13
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-014.mp4",
+      "start_time": 3363.5119990000003,
+      "duration": 240.259864,
+      "size": 5766667,
+      "chunk_number": 14
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-015.mp4",
+      "start_time": 3603.7718630000004,
+      "duration": 240.253651,
+      "size": 5940882,
+      "chunk_number": 15
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-016.mp4",
+      "start_time": 3844.0255140000004,
+      "duration": 237.020068,
+      "size": 6213583,
+      "chunk_number": 16
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-017.mp4",
+      "start_time": 4081.045582,
+      "duration": 241.922495,
+      "size": 6884438,
+      "chunk_number": 17
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-018.mp4",
+      "start_time": 4322.968077,
+      "duration": 241.826599,
+      "size": 7385881,
+      "chunk_number": 18
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-019.mp4",
+      "start_time": 4564.794676,
+      "duration": 240.251656,
+      "size": 7014836,
+      "chunk_number": 19
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-020.mp4",
+      "start_time": 4805.046332000001,
+      "duration": 235.253356,
+      "size": 5777457,
+      "chunk_number": 20
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-021.mp4",
+      "start_time": 5040.299688000001,
+      "duration": 240.251656,
+      "size": 6257099,
+      "chunk_number": 21
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-022.mp4",
+      "start_time": 5280.551344000001,
+      "duration": 240.245646,
+      "size": 5837740,
+      "chunk_number": 22
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-023.mp4",
+      "start_time": 5520.796990000002,
+      "duration": 240.261882,
+      "size": 6155729,
+      "chunk_number": 23
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-024.mp4",
+      "start_time": 5761.058872000001,
+      "duration": 240.255646,
+      "size": 10473857,
+      "chunk_number": 24
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-025.mp4",
+      "start_time": 6001.314518000001,
+      "duration": 240.24966,
+      "size": 8457867,
+      "chunk_number": 25
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-026.mp4",
+      "start_time": 6241.564178000001,
+      "duration": 240.243651,
+      "size": 9047236,
+      "chunk_number": 26
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-027.mp4",
+      "start_time": 6481.807829000001,
+      "duration": 240.259864,
+      "size": 7360696,
+      "chunk_number": 27
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-028.mp4",
+      "start_time": 6722.067693000001,
+      "duration": 240.207211,
+      "size": 6363204,
+      "chunk_number": 28
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-029.mp4",
+      "start_time": 6962.274904000001,
+      "duration": 241.813606,
+      "size": 7255830,
+      "chunk_number": 29
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-030.mp4",
+      "start_time": 7204.0885100000005,
+      "duration": 240.261882,
+      "size": 12164905,
+      "chunk_number": 30
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-031.mp4",
+      "start_time": 7444.350392,
+      "duration": 240.255646,
+      "size": 6906836,
+      "chunk_number": 31
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-032.mp4",
+      "start_time": 7684.606038,
+      "duration": 240.24966,
+      "size": 6441407,
+      "chunk_number": 32
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-033.mp4",
+      "start_time": 7924.855698,
+      "duration": 240.242653,
+      "size": 6155453,
+      "chunk_number": 33
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-034.mp4",
+      "start_time": 8165.098351000001,
+      "duration": 240.259864,
+      "size": 6931516,
+      "chunk_number": 34
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-035.mp4",
+      "start_time": 8405.358215,
+      "duration": 235.238141,
+      "size": 6992598,
+      "chunk_number": 35
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-036.mp4",
+      "start_time": 8640.596356,
+      "duration": 240.259864,
+      "size": 6507548,
+      "chunk_number": 36
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-037.mp4",
+      "start_time": 8880.85622,
+      "duration": 240.253651,
+      "size": 6538505,
+      "chunk_number": 37
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-038.mp4",
+      "start_time": 9121.109871,
+      "duration": 240.246644,
+      "size": 8243700,
+      "chunk_number": 38
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-039.mp4",
+      "start_time": 9361.356515000001,
+      "duration": 240.240658,
+      "size": 8275277,
+      "chunk_number": 39
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-040.mp4",
+      "start_time": 9601.597173000002,
+      "duration": 240.257869,
+      "size": 10805377,
+      "chunk_number": 40
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-041.mp4",
+      "start_time": 9841.855042000001,
+      "duration": 240.251656,
+      "size": 5859290,
+      "chunk_number": 41
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-042.mp4",
+      "start_time": 10082.106698000001,
+      "duration": 240.244649,
+      "size": 6356039,
+      "chunk_number": 42
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-043.mp4",
+      "start_time": 10322.351347000002,
+      "duration": 240.261882,
+      "size": 6684026,
+      "chunk_number": 43
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-044.mp4",
+      "start_time": 10562.613229000002,
+      "duration": 240.255646,
+      "size": 6751756,
+      "chunk_number": 44
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-045.mp4",
+      "start_time": 10802.868875000002,
+      "duration": 240.248662,
+      "size": 9924243,
+      "chunk_number": 45
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-046.mp4",
+      "start_time": 11043.117537000002,
+      "duration": 240.242653,
+      "size": 7915701,
+      "chunk_number": 46
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-047.mp4",
+      "start_time": 11283.360190000001,
+      "duration": 237.752109,
+      "size": 6688804,
+      "chunk_number": 47
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-048.mp4",
+      "start_time": 11521.112299,
+      "duration": 242.709313,
+      "size": 6761123,
+      "chunk_number": 48
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-049.mp4",
+      "start_time": 11763.821612,
+      "duration": 240.256871,
+      "size": 6204238,
+      "chunk_number": 49
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-050.mp4",
+      "start_time": 12004.078483,
+      "duration": 240.250658,
+      "size": 7067568,
+      "chunk_number": 50
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-051.mp4",
+      "start_time": 12244.329141,
+      "duration": 240.243651,
+      "size": 8119260,
+      "chunk_number": 51
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-052.mp4",
+      "start_time": 12484.572792,
+      "duration": 240.260862,
+      "size": 6631313,
+      "chunk_number": 52
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-053.mp4",
+      "start_time": 12724.833654,
+      "duration": 240.254649,
+      "size": 6558076,
+      "chunk_number": 53
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-054.mp4",
+      "start_time": 12965.088303,
+      "duration": 240.247642,
+      "size": 7945782,
+      "chunk_number": 54
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-055.mp4",
+      "start_time": 13205.335945,
+      "duration": 240.241656,
+      "size": 7359715,
+      "chunk_number": 55
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-056.mp4",
+      "start_time": 13445.577601,
+      "duration": 235.243356,
+      "size": 7544973,
+      "chunk_number": 56
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-057.mp4",
+      "start_time": 13680.820957000002,
+      "duration": 240.241656,
+      "size": 6722347,
+      "chunk_number": 57
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-058.mp4",
+      "start_time": 13921.062613000002,
+      "duration": 240.258866,
+      "size": 6835793,
+      "chunk_number": 58
+    },
+    {
+      "filename": "FLAT_EARTH_4_Hour_Documentary_by_Russianvids_RV_TRUTH-[I5ZN289jjDo]-059.mp4",
+      "start_time": 14161.321479000002,
+      "duration": 116.002675,
+      "size": 3994830,
+      "chunk_number": 59
+    }
+  ],
+  "total_chunks": 60,
+  "slice_duration": 240,
+  "video_metadata": {
+    "title": "FLAT EARTH | 4 Hour Documentary by Russianvids (RV TRUTH)",
+    "description": "My first attempt at uploading this was a failure. It was *blocked WORLDWIDE* over a 90second clip from a movie that was released in the 1980's. Seriously YouTube and Warner Bro's? You two can suck each others @#$% and go to $#@! \nAnyways....so, what'd I do? I loaded it into my movie editor and removed the 90second clip and reuploaded all 4 hours. Take that Warner Bro's and YT, you @#$%'s.\n\n*CLAIMING FAIR USE*\n\noriginally uploaded by the channel \"Russianvids\"\n\nThanks for watching!\nPlease...Like, Subscribe & Share, for more content!\nGod Bless",
+    "thumbnail": "https://i.ytimg.com/vi/I5ZN289jjDo/sddefault.jpg",
+    "channel": "theTRUman",
+    "channel_id": "UCbLh-hrBpH2DGUcIy2LFmqw",
+    "channel_url": "https://www.youtube.com/channel/UCbLh-hrBpH2DGUcIy2LFmqw",
+    "uploader_id": "@theTRUman",
+    "uploader_url": "https://www.youtube.com/@theTRUman",
+    "timestamp": 1500833579,
+    "duration": 14277,
+    "uploader": "theTRUman",
+    "id": "I5ZN289jjDo"
+  }
+}
