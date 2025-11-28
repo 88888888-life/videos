@@ -1,0 +1,77 @@
+{
+  "original_video": {
+    "filename": "Jesuits_Erasing_our_Flat_Earth_-_Documentary-[olbyJDou4qQ].mp4",
+    "duration": 1538.623855,
+    "size": 145779015,
+    "width": 854,
+    "height": 480,
+    "framerate": "30000/1001"
+  },
+  "chunks": [
+    {
+      "filename": "Jesuits_Erasing_our_Flat_Earth_-_Documentary-[olbyJDou4qQ]-000.mp4",
+      "start_time": 0,
+      "duration": 240.240007,
+      "size": 28970985,
+      "chunk_number": 0
+    },
+    {
+      "filename": "Jesuits_Erasing_our_Flat_Earth_-_Documentary-[olbyJDou4qQ]-001.mp4",
+      "start_time": 240.240007,
+      "duration": 240.24,
+      "size": 25067511,
+      "chunk_number": 1
+    },
+    {
+      "filename": "Jesuits_Erasing_our_Flat_Earth_-_Documentary-[olbyJDou4qQ]-002.mp4",
+      "start_time": 480.480007,
+      "duration": 240.24,
+      "size": 23820862,
+      "chunk_number": 2
+    },
+    {
+      "filename": "Jesuits_Erasing_our_Flat_Earth_-_Documentary-[olbyJDou4qQ]-003.mp4",
+      "start_time": 720.720007,
+      "duration": 240.24,
+      "size": 21678689,
+      "chunk_number": 3
+    },
+    {
+      "filename": "Jesuits_Erasing_our_Flat_Earth_-_Documentary-[olbyJDou4qQ]-004.mp4",
+      "start_time": 960.960007,
+      "duration": 240.24,
+      "size": 18029327,
+      "chunk_number": 4
+    },
+    {
+      "filename": "Jesuits_Erasing_our_Flat_Earth_-_Documentary-[olbyJDou4qQ]-005.mp4",
+      "start_time": 1201.200007,
+      "duration": 240.24,
+      "size": 20275132,
+      "chunk_number": 5
+    },
+    {
+      "filename": "Jesuits_Erasing_our_Flat_Earth_-_Documentary-[olbyJDou4qQ]-006.mp4",
+      "start_time": 1441.440007,
+      "duration": 97.183991,
+      "size": 7945071,
+      "chunk_number": 6
+    }
+  ],
+  "total_chunks": 7,
+  "slice_duration": 240,
+  "video_metadata": {
+    "title": "Jesuits Erasing our Flat Earth - Documentary",
+    "description": "How the biggest deception started and who promoted it, narrated by Johnny Cirucci. From the Holy Roman Empire, to modern times, while explaining the Jesuit connection with Pythagoras, Copernicus, Tycho Brahe, Kepler, Galileo, Einstein, etc. Sources Below:\nhttp://johnnycirucci.com/\nCiruccis channel: https://www.youtube.com/user/THEJohnnyCirucci\nBook: Illuminati Unmasked:\nhttps://www.amazon.com/Illuminati-Unmasked-Everything-about-World/dp/1506156290\nSoundtracks:\nRed Alert 3 Soundtrack - The Motherland\nAssassins Creed Anthology Music Mix - https://www.youtube.com/watch?v=pxnP826T0PI",
+    "thumbnail": "https://i.ytimg.com/vi_webp/olbyJDou4qQ/maxresdefault.webp",
+    "channel": "MIG MAG",
+    "channel_id": "UCyOcJ4jSWoLV6cy0gibbnOQ",
+    "channel_url": "https://www.youtube.com/channel/UCyOcJ4jSWoLV6cy0gibbnOQ",
+    "uploader_id": "@MigMag360",
+    "uploader_url": "https://www.youtube.com/@MigMag360",
+    "timestamp": 1478818294,
+    "duration": 1539,
+    "uploader": "MIG MAG",
+    "id": "olbyJDou4qQ"
+  }
+}
