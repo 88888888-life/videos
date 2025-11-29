@@ -1,0 +1,231 @@
+{
+  "original_video": {
+    "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc].mp4",
+    "duration": 6894.027755,
+    "size": 1094381941,
+    "width": 1280,
+    "height": 720,
+    "framerate": "30000/1001"
+  },
+  "chunks": [
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-000.mp4",
+      "start_time": 0,
+      "duration": 240.240007,
+      "size": 39413870,
+      "chunk_number": 0
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-001.mp4",
+      "start_time": 240.240007,
+      "duration": 240.24,
+      "size": 39289775,
+      "chunk_number": 1
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-002.mp4",
+      "start_time": 480.480007,
+      "duration": 240.24,
+      "size": 39904721,
+      "chunk_number": 2
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-003.mp4",
+      "start_time": 720.720007,
+      "duration": 240.24,
+      "size": 38282523,
+      "chunk_number": 3
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-004.mp4",
+      "start_time": 960.960007,
+      "duration": 240.24,
+      "size": 38592446,
+      "chunk_number": 4
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-005.mp4",
+      "start_time": 1201.200007,
+      "duration": 239.005433,
+      "size": 25283519,
+      "chunk_number": 5
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-006.mp4",
+      "start_time": 1440.20544,
+      "duration": 241.474567,
+      "size": 29001973,
+      "chunk_number": 6
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-007.mp4",
+      "start_time": 1681.680007,
+      "duration": 240.1399,
+      "size": 42450139,
+      "chunk_number": 7
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-008.mp4",
+      "start_time": 1921.819907,
+      "duration": 240.3401,
+      "size": 39564859,
+      "chunk_number": 8
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-009.mp4",
+      "start_time": 2162.160007,
+      "duration": 240.24,
+      "size": 27017812,
+      "chunk_number": 9
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-010.mp4",
+      "start_time": 2402.400007,
+      "duration": 239.9397,
+      "size": 43541202,
+      "chunk_number": 10
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-011.mp4",
+      "start_time": 2642.339707,
+      "duration": 239.572667,
+      "size": 45347338,
+      "chunk_number": 11
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-012.mp4",
+      "start_time": 2881.912374,
+      "duration": 241.207633,
+      "size": 52082330,
+      "chunk_number": 12
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-013.mp4",
+      "start_time": 3123.120007,
+      "duration": 240.24,
+      "size": 41679062,
+      "chunk_number": 13
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-014.mp4",
+      "start_time": 3363.360007,
+      "duration": 238.471567,
+      "size": 34800713,
+      "chunk_number": 14
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-015.mp4",
+      "start_time": 3601.8315740000003,
+      "duration": 242.008433,
+      "size": 36210237,
+      "chunk_number": 15
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-016.mp4",
+      "start_time": 3843.8400070000002,
+      "duration": 240.24,
+      "size": 31240089,
+      "chunk_number": 16
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-017.mp4",
+      "start_time": 4084.0800070000005,
+      "duration": 240.24,
+      "size": 28148801,
+      "chunk_number": 17
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-018.mp4",
+      "start_time": 4324.320007,
+      "duration": 240.24,
+      "size": 31859884,
+      "chunk_number": 18
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-019.mp4",
+      "start_time": 4564.560007,
+      "duration": 240.24,
+      "size": 30747129,
+      "chunk_number": 19
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-020.mp4",
+      "start_time": 4804.800007,
+      "duration": 240.24,
+      "size": 34382441,
+      "chunk_number": 20
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-021.mp4",
+      "start_time": 5045.040007,
+      "duration": 240.24,
+      "size": 34261817,
+      "chunk_number": 21
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-022.mp4",
+      "start_time": 5285.280006999999,
+      "duration": 234.901333,
+      "size": 44440148,
+      "chunk_number": 22
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-023.mp4",
+      "start_time": 5520.181339999999,
+      "duration": 240.24,
+      "size": 27359902,
+      "chunk_number": 23
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-024.mp4",
+      "start_time": 5760.421339999999,
+      "duration": 240.24,
+      "size": 55997599,
+      "chunk_number": 24
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-025.mp4",
+      "start_time": 6000.661339999999,
+      "duration": 240.24,
+      "size": 47320047,
+      "chunk_number": 25
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-026.mp4",
+      "start_time": 6240.9013399999985,
+      "duration": 240.24,
+      "size": 44222607,
+      "chunk_number": 26
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-027.mp4",
+      "start_time": 6481.141339999998,
+      "duration": 240.24,
+      "size": 40461872,
+      "chunk_number": 27
+    },
+    {
+      "filename": "SCIENTISM_EXPOSED_-_Full_Documentary-[XNosYxqCgdc]-028.mp4",
+      "start_time": 6721.381339999998,
+      "duration": 172.646009,
+      "size": 31517206,
+      "chunk_number": 28
+    }
+  ],
+  "total_chunks": 29,
+  "slice_duration": 240,
+  "video_metadata": {
+    "title": "SCIENTISM EXPOSED - Full Documentary",
+    "description": "What if there has been an agenda to keep people from the Truth of God? What if everything modern day science has taught you about your origins is wrong? Make no mistake; the very foundation of all of mankind\u2019s \u201cknowledge\u201d depends on what is believed to be the Truth about the Origin of all that exists.  \u201cScientism Exposed\u201d is the long-awaited documentary film uncovering the spiritual agenda and deception with the scientific worldview that many teach today as proven truth and fact.\nPlease subscribe to Celebrate Truth, you won't be disappointed...\nhttps://www.youtube.com/channel/UCz81IIi1Fu_TRUvrc_iiVDA",
+    "thumbnail": "https://i.ytimg.com/vi/XNosYxqCgdc/hqdefault.jpg",
+    "channel": "The Bloody Truth",
+    "channel_id": "UCrLYicEEYd39sQRsDEeTPvw",
+    "channel_url": "https://www.youtube.com/channel/UCrLYicEEYd39sQRsDEeTPvw",
+    "uploader_id": "@thebloodytruth5278",
+    "uploader_url": "https://www.youtube.com/@thebloodytruth5278",
+    "timestamp": 1566152844,
+    "duration": 6894,
+    "uploader": "The Bloody Truth",
+    "id": "XNosYxqCgdc"
+  }
+}
